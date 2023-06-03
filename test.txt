@@ -1,0 +1,10 @@
+{
+	"name": "Hotel Jane",
+	"type": "hotel",
+	"city": "berlin",
+	"address": "somewhere",
+	"distance": "500",
+	"title": "Best hotel in the City.",
+	"desc": "hotel description",
+	"cheapestPrice": 100
+}
